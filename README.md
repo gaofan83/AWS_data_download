@@ -5,7 +5,7 @@
 ####
 #### Configure aws client
 `aws configure`
-#### You will need AWS access keys in configuration: `aws_access_key_id` and `aws_secret_access_key`.
+#### You will need AWS access keys for configuration: `aws_access_key_id` and `aws_secret_access_key`.
 #### You can ignore `default AWS region` and `default output format`.
 ####
 #### list accessible directories in AWS S3
