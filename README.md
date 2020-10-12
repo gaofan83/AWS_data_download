@@ -8,7 +8,7 @@
 #### You will need AWS access keys for configuration: `aws_access_key_id` and `aws_secret_access_key`.
 #### You can ignore `default AWS region` and `default output format`.
 ####
-#### list accessible directories in AWS S3
+#### List accessible directories in AWS S3
 `aws s3 ls`
 ####
 #### Download a sub-directory
