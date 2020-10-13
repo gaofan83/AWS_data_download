@@ -11,5 +11,5 @@
 #### List accessible directories in AWS S3
 `aws s3 ls`
 ####
-#### Download a sub-directory
+#### Download a sub-directory to your local directory
 `aws s3 sync s3://directory/subdir ~/local/subdir`
