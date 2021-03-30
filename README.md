@@ -13,3 +13,6 @@
 ####
 #### Download a sub-directory to your local directory
 `aws s3 sync s3://directory/subdir ~/local/subdir`
+####
+#### Download a sra fastq file to local 
+`aws s3 cp s3://sra-pub-src-6/SRR11422700/test.fastq.gz.1 test.fastq.gz`
